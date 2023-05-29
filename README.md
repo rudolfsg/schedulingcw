@@ -1,6 +1,6 @@
 # Scheduling coursework
 
-A branch-and-bound solver which finds the optimal schedule for a set of nodes with precedence relations (i.e. a directed acyclic graph). It minimises the (total tardiness)[https://en.wikipedia.org/wiki/Tardiness_(scheduling)] of the schedule which depends on the processing time, due date and scheduled order of each node. 
+A branch-and-bound solver which finds the optimal schedule for a set of nodes with precedence relations (i.e. a directed acyclic graph). It minimises the [total tardiness](https://en.wikipedia.org/wiki/Tardiness_(scheduling)) of the schedule which depends on the processing time, due date and scheduled order of each node. 
 
 Joint coursework with Jan Marczak.
 
